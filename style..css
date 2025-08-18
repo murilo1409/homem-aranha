@@ -1,18 +1,5 @@
 body{
-    background-color: rgb(0,0, 0);
+    background-color: black;
     color: whitesmoke; 
-.source-code-pro-<uniquifier> {
-  font-family: "Source Code Pro", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-};
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(199, 22, 22);
-    padding: 20px;
-    font-size: 32px;
-
+    font-family:"Lato",sans-serif;
 }
