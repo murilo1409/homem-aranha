@@ -4,3 +4,12 @@ body{
     font-family:"Lato",sans-serif;
     margin: 0px;
 }
+header{
+    font-size: 40px;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+                
